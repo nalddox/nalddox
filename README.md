@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @nalddox
+- 👋 Hi, I’m @nalddox (Jeff).
 - 👀 I’m interested in integrating concurrent programming practice into reinforcement learning algorithms.
 - 🌱 I’m currently learning concurrency best practices in C++.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: jeff.barnerjr@gmail.com
 
 <!---
 nalddox/nalddox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
